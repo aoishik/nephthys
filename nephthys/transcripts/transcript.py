@@ -167,7 +167,7 @@ if your question has been answered, please hit the button below to mark it as re
             self.faq_macro = f"hey, (user)! this question is answered in the faq i sent earlier, please make sure to check it out! :rac_cute:\n\n<{self.faq_link}|here it is again>"
 
         if not self.identity_macro:
-            self.identity_macro = f"hey, (user)! please could you ask questions about identity verification in <#{self.identity_help_channel}>? :rac_cute:\n\nit helps the verification team keep track of questions easier!"
+            self.identity_macro = f"hey, (user)! please could you ask questions about hq infra other than orchard in <#C05SVRTCDGV>? :rac_cute:\n\nit helps the hq engineering team keep track of questions easier!"
 
         if not self.not_allowed_channel:
             self.not_allowed_channel = f"heya, it looks like you're not supposed to be in that channel, pls talk to <@{self.program_owner}> if that's wrong"
