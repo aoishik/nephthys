@@ -4,7 +4,7 @@ class Orchard(Transcript):
     """Transcript for Orchard Support"""
 
     program_name: str = "Orchard"
-    program_owner: str = "D0BEYQW9FU5"
+    program_owner: str = "U07UBCSSQH3"
 
     help_channel: str = "C0C0J6XCA8Y"  # orchard-support
     ticket_channel: str = "C0BC78VT9KM"
